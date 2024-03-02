@@ -1,0 +1,46 @@
+# .gitignore
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.out
+*.so
+
+# Ignore Node.js files
+node_modules/
+npm-debug.log
+
+# Ignore logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore user-specific files
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore generated files
+*.log
+*.bak
+*.lock
+*.swp
+*~
+
+# Ignore JetBrains files
+.idea/
+
+# Ignore operating system files
+.DS_Store
+ehthumbs.db
+Thumbs.db
